@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RudraPramanik/taskManeger/static/css/main.2b9ab736.chunk.css",
+    "main.js": "/RudraPramanik/taskManeger/static/js/main.d9a9fc14.chunk.js",
+    "main.js.map": "/RudraPramanik/taskManeger/static/js/main.d9a9fc14.chunk.js.map",
+    "runtime-main.js": "/RudraPramanik/taskManeger/static/js/runtime-main.543fa4a6.js",
+    "runtime-main.js.map": "/RudraPramanik/taskManeger/static/js/runtime-main.543fa4a6.js.map",
+    "static/js/2.b566954d.chunk.js": "/RudraPramanik/taskManeger/static/js/2.b566954d.chunk.js",
+    "static/js/2.b566954d.chunk.js.map": "/RudraPramanik/taskManeger/static/js/2.b566954d.chunk.js.map",
+    "index.html": "/RudraPramanik/taskManeger/index.html",
+    "precache-manifest.69c5e6561a617ae798ce2f6d9a45c8d8.js": "/RudraPramanik/taskManeger/precache-manifest.69c5e6561a617ae798ce2f6d9a45c8d8.js",
+    "service-worker.js": "/RudraPramanik/taskManeger/service-worker.js",
+    "static/css/main.2b9ab736.chunk.css.map": "/RudraPramanik/taskManeger/static/css/main.2b9ab736.chunk.css.map",
+    "static/js/2.b566954d.chunk.js.LICENSE.txt": "/RudraPramanik/taskManeger/static/js/2.b566954d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.543fa4a6.js",
+    "static/js/2.b566954d.chunk.js",
+    "static/css/main.2b9ab736.chunk.css",
+    "static/js/main.d9a9fc14.chunk.js"
+  ]
+}
